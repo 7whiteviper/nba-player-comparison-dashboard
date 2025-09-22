@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Editors
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Build/output
+assets/screenshot*.png
